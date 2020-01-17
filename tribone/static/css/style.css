@@ -1,0 +1,15 @@
+body{
+  color: #cc672a;
+  background-color: #1a2a2c;
+
+  font-family: Didot, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ea8d45;
+}
+
+.resume {
+  width: 70%;
+  margin: 100px auto;
+}
