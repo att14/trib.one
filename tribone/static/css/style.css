@@ -1,12 +1,25 @@
 body{
-  color: #cc672a;
-  background-color: #1a2a2c;
+  color: #6a8a82;
+  background-color: #282726;
 
-  font-family: Didot, serif;
+  font-family: Consolas, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #ea8d45;
+svg {
+  padding: 20px;
+}
+
+a {
+  color: inherit;
+}
+
+.intro {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 .resume {
