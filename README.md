@@ -1,7 +1,7 @@
 # trib.one
 
 ```
-pandoc -f markdown -t html -o tribone/templates/resume.html tribone/templates/resume.md
+pandoc -f markdown -t html -o tribone/templates/_resume.html tribone/templates/resume.md
 ```
 
 ```

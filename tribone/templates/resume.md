@@ -1,7 +1,5 @@
 # Andrew Tribone
 
----
-
 [andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one]
 
 Pragmatic software engineer and leader working to solve technology problems in the logistics industry. Currently building a Product Management organization at EasyPost. I am passionate about thoughtful software design, test driven development, and scalable infrastructures.

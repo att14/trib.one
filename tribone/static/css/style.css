@@ -1,7 +1,6 @@
 body{
   color: #6a8a82;
   background-color: #282726;
-
   font-family: Consolas, sans-serif;
 }
 
@@ -25,4 +24,8 @@ a {
 .resume {
   width: 70%;
   margin: 100px auto;
+}
+
+.resume p {
+  color: #a7414a;
 }
