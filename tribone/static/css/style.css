@@ -21,6 +21,10 @@ a {
   text-align: center;
 }
 
+.intro a:hover {
+  color: #a7414a;
+}
+
 .resume {
   width: 70%;
   margin: 100px auto;
@@ -28,4 +32,8 @@ a {
 
 .resume p {
   color: #a7414a;
+}
+
+.resume a:hover {
+  color: #a37c27;
 }
