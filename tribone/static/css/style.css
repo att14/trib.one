@@ -1,7 +1,12 @@
-body{
+@font-face {
+  font-family: 'Fira Mono';
+  src: url('/static/fonts/FiraMono-Regular.ttf');
+}
+
+body {
   color: #6a8a82;
   background-color: #282726;
-  font-family: Consolas, sans-serif;
+  font-family: 'Fira Mono';
 }
 
 svg {
