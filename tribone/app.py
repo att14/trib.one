@@ -1,17 +1,20 @@
 import os
 
-from dotenv import load_dotenv
 from flask import (
     Flask,
     render_template,
     send_from_directory
 )
-
-
-load_dotenv()
+from flask_talisman import Talisman
+from flask_seasurf import SeaSurf
 
 
 app = Flask(__name__)
+app.secret_key = os.getenv('SECRET_KEY', None)
+
+
+Talisman(app)
+SeaSurf(app)
 
 
 @app.route('/')
@@ -31,3 +34,7 @@ def favicon():
         'favicon.ico',
         mimetype='image/vnd.microsoft.icon'
     )
+
+
+if __name__ == '__main__':
+    app.run(host='127.0.0.1', port=5000, debug=True)
