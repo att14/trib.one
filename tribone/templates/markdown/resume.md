@@ -13,7 +13,7 @@ Pragmatic software engineer and leader working to solve technology problems in t
 
 ### Director of Product[^1]
 
-Founding member of the Product Management organization at EasyPost. As our company grows and the breadth of customers increases we strive to ensure we are meeting the needs of our users. We focus on making data-driven decisions and use our analyses to inform future products.
+Founding member of the Product Management organization at EasyPost. As our company grows, and the breadth of our customers widens, we strive to meet the needs of our customers, create scalable internal communications, and build new market-defining products. We focus on making data-driven decisions to improve our existing products and to inform the creation of future products.
 
 ### Director of Engineering[^2]
 
@@ -34,6 +34,6 @@ Application developer focused on B2B APIs for data ingestion and syndication.
 
 [^1]: {-} December 2018 - Present
 [^2]: {-} January 2018 – December 2018
-[^3]: {-} Febuary 2014 – Jan 2018
+[^3]: {-} February 2014 – Jan 2018
 [^4]: {-} January 2012 - January 2014
 [^5]: {-} September 2007 - December 2011

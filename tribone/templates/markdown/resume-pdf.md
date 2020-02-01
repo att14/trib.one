@@ -9,7 +9,7 @@ Pragmatic software engineer and leader working to solve technology problems in t
 ### Director of Product
 _December 2018 - Present_
 
-Founding member of the Product Management organization at EasyPost. As our company scales and our breadth of customers increases we strive to ensure we are meeting the needs of our users. We focus on making data-driven decisions and use our analyses to inform future products.
+Founding member of the Product Management organization at EasyPost. As our company grows, and the breadth of our customers widens, we strive to meet the needs of our customers, create scalable internal communications, and build new market-defining products. We focus on making data-driven decisions to improve our existing products and to inform the creation of future products.
 
 ### Director of Engineering
 _January 2018 – December 2018_
@@ -17,7 +17,7 @@ _January 2018 – December 2018_
 Day-to-day operator of the Engineering team, head of technical support, and lead application developer.
 
 ### Software Engineer
-_Febuary 2014 – Jan 2018_
+_February 2014 – Jan 2018_
 
 Application developer focused on infrastructure related projects, e.g. service oriented architecture, message queues, testing and software design.
 
