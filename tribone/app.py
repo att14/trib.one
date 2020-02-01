@@ -9,7 +9,7 @@ from flask_talisman import Talisman
 from flask_seasurf import SeaSurf
 
 
-app = Flask(__name__)
+app = Flask(__name__)  # skipcq: PYL-C0103
 app.secret_key = os.getenv('SECRET_KEY', None)
 
 
@@ -37,4 +37,4 @@ def favicon():
 
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5000, debug=True)  # skipcq: BAN-B201
