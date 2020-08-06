@@ -32,7 +32,16 @@ def favicon():
     return send_from_directory(
         os.path.join(app.root_path, 'static'),
         'favicon.ico',
-        mimetype='image/vnd.microsoft.icon'
+        mimetype='image/vnd.microsoft.icon',
+    )
+
+
+@app.route('/resume.pdf')
+def resume_pdf():
+    return send_from_directory(
+        os.path.join(app.root_path, 'static'),
+        'resume.pdf',
+        mimetype='application/pdf',
     )
 
 

@@ -22,7 +22,7 @@ pandoc:
 	$(PANDOC) --from markdown \
 	          --to pdf \
 	          --output tribone/static/resume.pdf \
-	          --variable geometry:"top=3.5cm" \
+	          --variable geometry:margin=1.5cm \
 	          tribone/templates/markdown/resume-pdf.md
 	$(PANDOC) --katex \
 	          --section-divs \
