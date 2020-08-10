@@ -1,0 +1,13 @@
+To whom it may concern:
+
+As a proven individual contributor and leader of both engineering and product departments, I am looking forward to speaking with you about the <> position at <>. I am currently working as the head of product management at EasyPost, and looking for an opportunity work within an engineering department again.
+
+My career began as a software engineer at Yelp where I worked on B2B APIs for data ingestion and syndication. I was offered a position as the first developer, after the CTO, at EasyPost and I jumped at the opportunity. Once onboard, I spent much of my time building the foundation of our technology through service oriented architecture, distributed message queues, unit and integration testing, and thoughtful software design. On top of that, I built many product features, such as the back end for our in-house warehouse management service, order management service, and transportation management service.
+
+Besides software development, I served as manager of the engineering team and head of technical support. Working with customers gave me an in depth knowledge of what customers loved about our software and the improvements we needed to make. This led to my role in product management.
+
+As the founding member of EasyPost's product management organization I worked to codify what is important to our customers, internal and external, within the product roadmap; to reduce noise by defining a focus for the company; and to improve processes to ensure accountability and decisive action. The product team is the champion for making data driven decisions across the company. To further instill a metrics based approach, I implemented company-wide OKRs in conjunction with the executive team.
+
+When I started at EasyPost we only had a handful of customers, this year we will do $4 billion of postage generated through our platform. As a strong individual contributor and leader of the company I am very proud of the success we have had. It would be a pleasure to speak with you more about how I can contribute the same growth to <>.
+
+Thank you for your consideration and I look forward to speaking with you.
