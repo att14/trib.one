@@ -10,7 +10,7 @@ Tufte also coined the terms _chartjunk_ and _data-ink ratio_ to argue against us
 
 ## Pandoc
 
-The pages of this site are written as Markdown and converted to HTML via [_Pandoc_](https://pandoc.org/index.html). Tufte's style is achieved by using [_Tufte Pandoc CSS_](https://jez.io/tufte-pandoc-css/).
+You could use [_Tufte CSS_](https://github.com/edwardtufte/tufte-css) for HTML pages, however the pages of this site are written as Markdown and converted to HTML via [_Pandoc_](https://pandoc.org/index.html). Tufte's style is achieved by using [_Tufte Pandoc CSS_](https://jez.io/tufte-pandoc-css/).
 
 ### Watching Markdown with `glow` and `entr`
 
