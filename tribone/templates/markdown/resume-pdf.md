@@ -4,7 +4,7 @@
 
 ---
 
-Pragmatic software engineer and leader passionate about clean architecture, test driven development, FLOSS, privacy, relability, and scalability. Looking for a full-time software development opportunity at a technology driven company.
+Pragmatic software engineer and leader passionate about clean architecture, test driven development, FLOSS, privacy, reliability, and scalability. Looking for a full-time software development opportunity at a technology driven company.
 
 ---
 
@@ -13,12 +13,13 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 ### Head of Product and Engineering
 September 2020 — December 2021
 
+* Technical lead and manager of 4 software engineers, 1 product manager, 1 devops engineer, and 1 IT professional.
 * Built data ingestion and API for parcel tracking which processed tens of millions of ingestion events per month.
-* Built webhook notification system which pushed ingested tracking data to thrid-parties and customers.
+* Built webhook notification system which pushed ingested tracking data to third-parties and customers.
 * Scaled API application (NodeJS & MongoDB) to handle over 1000% growth year-over-year.
 * Migrated web server and database from EC2 to ElasticBeanstalk and MongoDB Atlas, respectively.
 * Implemented structured logging using Logz.IO for requests and general application logs.
-* Built ETL framework to manage the enitire data-pipeline in Python. The system was responsible for extranding or loading into a variety of source, e.g., SFTP, MongoDB, S3, Redshift, etc.
+* Built ETL framework to manage the entire data-pipeline in Python. The system extracted from and loaded into a variety of technologies, e.g., SFTP, MongoDB, S3, Redshift, etc.
 * Implemented Scrum process for engineering and business stakeholders.
 * Managed and implemented SOC II gap analysis and remediation.
 * Open source contributions to `sqlalchemy-reshift`, `nock`, and `luxon-business-days`.
@@ -54,10 +55,10 @@ January 2018 — December 2018
 February 2014 — Jan 2018
 
 * Application developer focused on infrastructure related projects, e.g. service oriented architecture, message queues, testing and software design.
-* Introduced and scalled `beanstalkd` message queue that was responsible for processing hundreds of millions of jobs per month. Contributed to open-source projects related to `beanstalkd`.
+* Introduced and scaled `beanstalkd` message queue that was responsible for processing hundreds of millions of jobs per month. Contributed to open-source projects related to `beanstalkd`.
 * Deployed EasyPost's first microservice which grew to over 200.
-* Contributed heavily to system monitoring through structured logging and statistics collection. Our ELK stack processed hundreds of millions of requests per day, and we collected thousands of distinct timeseries metrics.
-* Guided planning and architure of refactoring monolith in to multiple microservices.
+* Contributed heavily to system monitoring through structured logging and statistics collection. Our ELK stack processed hundreds of millions of requests per day, and we collected thousands of distinct time series metrics.
+* Guided planning and architecture of refactoring monolith in to multiple microservices.
 
 ## Yelp
 

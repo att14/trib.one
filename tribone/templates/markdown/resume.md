@@ -7,7 +7,7 @@ date: Monday, December 20, 2021
 
 [andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one] | [<img src="/static/img/linkedin-brands.svg" width=20px height=20px>/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/) | [<img src="/static/img/github-square-brands.svg" width=20px height=20px>/att14](https://github.com/att14)
 
-Pragmatic software engineer and leader passionate about clean architecture, test driven development, relability, and scalable infrastructures. Looking for a full-time software development opportunity at a technology driven company.
+Pragmatic software engineer and leader passionate about clean architecture, test driven development, FLOSS, privacy, relability, and scalability. Looking for a full-time software development opportunity at a technology driven company.
 
 ## X Delivery
 
@@ -18,7 +18,7 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 * Scaled API application (NodeJS & MongoDB) to handle over 1000% growth year-over-year.
 * Migrated web server and database from EC2 to ElasticBeanstalk and MongoDB Atlas, respectively.
 * Implemented structured logging using Logz.IO for requests and general application logs.
-* Built ETL framework to manage the enitire data-pipeline in Python. The system was responsible for extranding or loading into a variety of source, e.g., SFTP, MongoDB, S3, Redshift, etc.
+* Built ETL framework to manage the enitire data-pipeline in Python. The system extracted from and loaded into a variety of technologies, e.g., SFTP, MongoDB, S3, Redshift, etc.
 * Implemented Scrum process for engineering and business stakeholders.
 * Managed and implemented SOC II gap analysis and remediation.
 * Open source contributions to `sqlalchemy-reshift`, `nock`, and `luxon-business-days`.
