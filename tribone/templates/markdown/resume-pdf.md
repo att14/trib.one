@@ -1,6 +1,6 @@
 # Andrew Tribone
 
-[andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one] | [![](tribone/static/img/linkedin-brands-small.pdf)/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/) | [![](tribone/static/img/github-square-brands-small.pdf)/att14](https://github.com/att14)
+[andrew@trib.one](mailto:andrew@trib.one) | 412.294.8288 | [![](tribone/static/img/linkedin-brands-small.pdf)/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/) | [![](tribone/static/img/github-square-brands-small.pdf)/att14](https://github.com/att14)
 
 ---
 
@@ -10,10 +10,11 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 
 ## X Delivery
 
-### Head of Product and Engineering
+### Distinguished Software Engineer
 September 2020 — December 2021
 
 * Technical lead and manager of 4 software engineers, 1 product manager, 1 DevOps engineer, and 1 IT professional.
+* Participated in executive meetings and planning.
 * Built data ingestion and API for parcel tracking which processed tens of millions of ingestion events per month.
 * Built webhook notification system which pushed ingested tracking data to third-parties and customers.
 * Scaled API application (NodeJS & MongoDB) to handle over 1000% growth year-over-year.
@@ -29,9 +30,10 @@ September 2020 — December 2021
 ### VP of Product
 February 2020 — August 2020
 
+* Member of the executive team.
 * Built and maintained strategic initiatives backed by a long-term product roadmap.
 * Implemented Scrum across the entire engineering and product department.
-* Operated as the product owner for the Infrastructure engineering team due to technical expertise and in-depth knowledge of EasyPost's software.
+* Operated as the product owner for the Infrastructure and US Carriers engineering teams. Major deliverables include application sharding and UPS Digital Access Program.
 * Implemented regular communication with executives, and other stakeholders, regarding the roadmap and its progress.
 * Developed a regular OKR process for the product management team and individuals to continue to assure a metrics-based approach and to drive career development.
 
@@ -43,7 +45,7 @@ December 2018 — February 2020
 * Improved existing products and built new market-defining products with a focus on making data-driven decisions.
 * Grew the team to 10+ product managers and designers.
 
-### Director of Engineering
+### Principal Software Engineer
 January 2018 — December 2018
 
 * Day-to-day operator of the Engineering team, head of technical support, and lead application developer.
@@ -51,7 +53,7 @@ January 2018 — December 2018
 * Scaled shipping API to support tens of millions of labels generated and hundreds of millions of inbound and outbound requests per month.
 * Hired and managed, directly or indirectly, several dozen engineers.
 
-### Software Engineer
+### Senior Software Engineer
 February 2014 — Jan 2018
 
 * Application developer focused on infrastructure related projects, e.g. service-oriented architecture, message queues, testing and software design.

@@ -11,8 +11,10 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 
 ## X Delivery
 
-### Head of Product and Engineering [^X1]
+### Distinguished Software Engineer [^X1]
 
+* Technical lead and manager of 4 software engineers, 1 product manager, 1 DevOps engineer, and 1 IT professional.
+* Participated in executive meetings and planning.
 * Built data ingestion and API for parcel tracking which processed tens of millions of ingestion events per month.
 * Built webhook notification system which pushed ingested tracking data to thrid-parties and customers.
 * Scaled API application (NodeJS & MongoDB) to handle over 1000% growth year-over-year.
@@ -25,29 +27,30 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 
 ## EasyPost
 
-### VP of Product[^E4]
+### VP of Product [^E4]
 
+* Member of the executive team.
 * Built and maintained strategic initiatives backed by a long-term product roadmap.
 * Implemented Scrum across the entire engineering and product department.
-* Operated as the product owner for the Infrastructure and US Carriers engineering teams.
+* Operated as the product owner for the Infrastructure and US Carriers engineering teams. Major deliverables include application sharding and UPS Digital Access Program.
 * Implemented regular communication with executives, and other stakeholders, with regard to the roadmap and its progress.
 * Developed an OKR process for the product management team and individuals to continue to assure a metrics based approach and to drive career development.
 
-### Director of Product[^E3]
+### Director of Product [^E3]
 
 * Founding member of the Product Management organization at EasyPost.
 * Implemented scalable internal processes for customer escalation management, internal and external feature requests, vendor reviews, etc.
 * Improved existing products and built new market-defining products with a focus on making data-driven decisions.
 * Grew the team to 10+ product managers and designers.
 
-### Director of Engineering[^E2]
+### Principal Software Engineer [^E2]
 
 * Day-to-day operator of the Engineering team, head of technical support, and lead application developer.
 * Built the first version of our warehouse management system, order management system and transportation management system. Deployed and operated in four warehouses across the country, shipping hundres of thousands of packages per month.
 * Scaled shipping API to support tens of millions of labels generated and hundredes of millions of inbound and outbound requests per month.
 * Hired and managed, directly or indirectly, several dozen engineers.
 
-### Senior Software Engineer[^E1]
+### Senior Software Engineer [^E1]
 
 * Application developer focused on infrastructure related projects, e.g. service oriented architecture, message queues, testing and software design.
 * Introduced and scalled `beanstalkd` message queue that was responsible for processing hundreds of millions of jobs per month. Contributed to open-source projects related to `beanstalkd`.
