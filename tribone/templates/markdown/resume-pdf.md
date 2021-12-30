@@ -11,7 +11,7 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 ## X Delivery
 
 ### Distinguished Software Engineer
-September 2020 — December 2021
+_September 2020 — December 2021_ | _Volcano, HI_
 
 * Technical lead and manager of 4 software engineers, 1 product manager, 1 DevOps engineer, and 1 IT professional.
 * Participated in executive meetings and planning.
@@ -28,7 +28,7 @@ September 2020 — December 2021
 ## EasyPost
 
 ### VP of Product
-February 2020 — August 2020
+_February 2020 — August 2020_ | _San Francisco, CA_
 
 * Member of the executive team.
 * Built and maintained strategic initiatives backed by a long-term product roadmap.
@@ -38,7 +38,7 @@ February 2020 — August 2020
 * Developed a regular OKR process for the product management team and individuals to continue to assure a metrics-based approach and to drive career development.
 
 ### Director of Product
-December 2018 — February 2020
+_December 2018 — February 2020_ | _San Francisco, CA_
 
 * Founding member of the Product Management organization at EasyPost.
 * Implemented scalable internal processes for customer escalation management, internal and external feature requests, vendor reviews, etc.
@@ -46,7 +46,7 @@ December 2018 — February 2020
 * Grew the team to 10+ product managers and designers.
 
 ### Principal Software Engineer
-January 2018 — December 2018
+_January 2018 — December 2018_ | _San Francisco, CA_
 
 * Day-to-day operator of the Engineering team, head of technical support, and lead application developer.
 * Built the first version of our warehouse management system, order management system and transportation management system. Deployed and operated in four warehouses across the country, shipping hundreds of thousands of packages per month.
@@ -54,7 +54,7 @@ January 2018 — December 2018
 * Hired and managed, directly or indirectly, several dozen engineers.
 
 ### Senior Software Engineer
-February 2014 — Jan 2018
+_February 2014 — January 2018_ | _San Francisco, CA_
 
 * Application developer focused on infrastructure related projects, e.g. service-oriented architecture, message queues, testing and software design.
 * Introduced and scaled `beanstalkd` message queue that was responsible for processing hundreds of millions of jobs per month. Contributed to open-source projects related to `beanstalkd`.
@@ -65,7 +65,7 @@ February 2014 — Jan 2018
 ## Yelp
 
 ### Software Engineer
-January 2012 — January 2014
+_January 2012 — January 2014_ | _San Francisco, CA_
 
 * Application developer focused on B2B APIs for data ingestion and syndication.
 
