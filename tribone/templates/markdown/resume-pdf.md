@@ -1,6 +1,6 @@
 # Andrew Tribone
 
-[andrew@trib.one](mailto:andrew@trib.one) | 412.294.8288 | [![](tribone/static/img/linkedin-brands-small.pdf)/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/) | [![](tribone/static/img/github-square-brands-small.pdf)/att14](https://github.com/att14)
+[andrew@trib.one](mailto:andrew@trib.one) | [412.294.8288](tel:+14122948288) | [![](tribone/static/img/linkedin-brands-small.pdf)/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/) | [![](tribone/static/img/github-square-brands-small.pdf)/att14](https://github.com/att14)
 
 ---
 
