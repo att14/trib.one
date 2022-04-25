@@ -1,5 +1,5 @@
-PANDOC=/usr/local/bin/pandoc
-PYTHON=/usr/local/bin/python3
+PANDOC=$(brew --prefix pandoc)
+PYTHON=$(brew --prefix python)
 
 .PHONY: install
 install:
@@ -37,7 +37,7 @@ pandoc:
 
 .PHONY: run
 run:
-	env FLASK_APP=tribone/app.py venv/bin/flask run --host='0.0.0.0' --port=5000
+	env FLASK_APP=tribone/app.py venv/bin/flask run --host='0.0.0.0' --port=9876
 
 .PHONY: debug
 debug:
