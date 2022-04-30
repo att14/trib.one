@@ -1,12 +1,12 @@
-PANDOC=$(brew --prefix pandoc)
-PYTHON=$(brew --prefix python)
+PANDOC=$(shell brew --prefix pandoc)/bin/pandoc
+PYTHON=$(shell brew --prefix python)/bin/python
 
 .PHONY: install
 install:
 	$(PYTHON) -m venv venv
 	venv/bin/pip install -r requirements.txt
 
-.PHONE: pandoc
+.PHONY: pandoc
 pandoc:
 	$(PANDOC) --katex \
 	          --section-divs \

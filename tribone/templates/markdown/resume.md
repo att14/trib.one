@@ -7,6 +7,16 @@ date: Monday, December 20, 2021
 
 Pragmatic software engineer and leader passionate about clean architecture, test driven development, FLOSS, privacy, relability, and scalability. Looking for a full-time software development opportunity at a technology driven company.
 
+## Cortex
+
+### Software Engineer [^C1]
+
+* Cortex enables engineering teams to organize critical information about their microservices like ownership,
+  documentation, and dependencies. Teams use this information to grade the quality of their services based on their
+  production readiness, security compliance, and more and ultimately drive adoption of the developer best practices that
+  will enable them to deliver great products to their customers.
+* We are [hiring](https://www.cortex.io/careers) across the board, come join us!
+
 ## X Delivery
 
 ### Distinguished Software Engineer [^X1]
@@ -66,6 +76,7 @@ Pragmatic software engineer and leader passionate about clean architecture, test
 ### BS, Computer Science[^P1]
 
 [^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one]<br>[<img src="/static/img/linkedin-brands.svg" width=20px height=20px>/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" width=20px height=20px>/att14](https://github.com/att14)
+[^C1]: {-} Feburary 2022 — Present<br>Volcano, HI
 [^X1]: {-} September 2020 — December 2021<br>Volcano, HI
 [^E4]: {-} February 2020 — August 2020<br>San Francisco, CA
 [^E3]: {-} December 2018 — February 2020<br>San Francisco, CA
