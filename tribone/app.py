@@ -9,7 +9,7 @@ from flask_talisman import Talisman
 from flask_seasurf import SeaSurf
 
 
-app = Flask(__name__)  # skipcq: PYL-C0103
+app = Flask(__name__)
 app.secret_key = os.getenv('SECRET_KEY', None)
 
 
