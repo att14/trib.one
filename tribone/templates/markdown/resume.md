@@ -5,7 +5,7 @@ date: Monday, December 20, 2021
 
 # Andrew Tribone [^H1]
 
-Pragmatic software engineer and leader passionate about clean architecture, test driven development, FLOSS, privacy, relability, and scalability. Looking for a full-time software development opportunity at a technology driven company.
+Experienced technology leader with a proven track record of building and scaling high-performing engineering teams. Known for strategic planning, cross-functional collaboration, and effective project management. Equally strong in technical and business domains, with expertise in software development, architecture, and system design.
 
 ## Cortex
 
