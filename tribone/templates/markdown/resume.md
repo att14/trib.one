@@ -69,9 +69,10 @@ Experienced technology leader with a proven track record of building and scaling
 
 ### Software Engineer [^Y1]
 
-* Application developer focused on B2B APIs for data ingestion and syndication.
+* Lead project to create a generic data ingestion system from planning to implementation to maintenance.
 * Facilitated Yelp's purchase of Qype by ingesting all company and review data.
-* Enabled Apple Map's integration with differential based data dumps of businesses and reviews.
+* Enabled partnerships with menu data providers to offer this data on the business pages of Yelp.
+* SUpported Apple Maps integration with differential based data dumps of businesses and reviews using Elastic MapReduce.
 
 ## University of Pittsburgh
 ### BS, Computer Science[^P1]
