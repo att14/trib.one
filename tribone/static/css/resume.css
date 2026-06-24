@@ -7,11 +7,7 @@ img.contact-icon {
 }
 
 .resume-nav {
-    width: 87.5%;
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 1.2rem 0 0 12.5%;
-    box-sizing: border-box;
+    padding-top: 1.2rem;
 }
 
 .resume-nav a {
@@ -31,10 +27,6 @@ img.contact-icon {
         padding: 0px;
     }
 
-    .resume-nav {
-        padding-left: 1rem;
-        width: 100%;
-    }
 
     /* Hide the ⊕ toggle button — show all marginnotes inline instead */
     label.margin-toggle:not(.sidenote-number) {
