@@ -51,13 +51,6 @@ img.contact-icon {
         font-size: 1rem;
     }
 
-    /* Each contact link on its own line; icons stay small (overrides tufte img{width:100%}) */
-    .marginnote a {
-        display: block;
-        padding: 0.15rem 0;
-        line-height: 1.6;
-    }
-
     img.contact-icon {
         width: 1.1rem;
         height: 1.1rem;
