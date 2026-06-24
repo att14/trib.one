@@ -77,7 +77,7 @@ Experienced technology leader with a proven track record of building and scaling
 ## University of Pittsburgh
 ### BS, Computer Science[^P1]
 
-[^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one]<br>[<img src="/static/img/linkedin-brands.svg" width=20px height=20px>/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" width=20px height=20px>/att14](https://github.com/att14)
+[^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one)<br>[<img src="/static/img/linkedin-brands.svg" class="contact-icon">/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" class="contact-icon">/att14](https://github.com/att14)
 [^C1]: {-} February 2022 — Present<br>Volcano, HI
 [^X1]: {-} September 2020 — December 2021<br>Volcano, HI
 [^E4]: {-} February 2020 — August 2020<br>San Francisco, CA

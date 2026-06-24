@@ -1,3 +1,11 @@
+/* Contact icons in the header marginnote — keep them small everywhere */
+img.contact-icon {
+    width: 1.1rem;
+    height: 1.1rem;
+    vertical-align: middle;
+    margin-right: 0.2rem;
+}
+
 .resume-nav {
     width: 87.5%;
     max-width: 1400px;
@@ -41,6 +49,18 @@
         margin: 0.4rem 0 1rem;
         position: relative;
         font-size: 1rem;
+    }
+
+    /* Each contact link on its own line; icons stay small (overrides tufte img{width:100%}) */
+    .marginnote a {
+        display: block;
+        padding: 0.15rem 0;
+        line-height: 1.6;
+    }
+
+    img.contact-icon {
+        width: 1.1rem;
+        height: 1.1rem;
     }
 }
 
