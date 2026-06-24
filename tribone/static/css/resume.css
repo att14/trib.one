@@ -27,6 +27,21 @@
         padding-left: 1rem;
         width: 100%;
     }
+
+    /* Hide the ⊕ toggle button — show all marginnotes inline instead */
+    label.margin-toggle:not(.sidenote-number) {
+        display: none;
+    }
+
+    .marginnote {
+        display: block;
+        float: none;
+        clear: both;
+        width: 100%;
+        margin: 0.4rem 0 1rem;
+        position: relative;
+        font-size: 1rem;
+    }
 }
 
 @media only screen and (min-width: 760px) {
