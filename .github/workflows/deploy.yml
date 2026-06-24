@@ -37,8 +37,8 @@ jobs:
           cp    tribone/static/favicon.ico _site/favicon.ico
           cp    tribone/static/resume.pdf  _site/resume.pdf
 
-          # Custom domain
-          echo "trib.one" > _site/CNAME
+          # Uncomment when DNS is pointed at GitHub Pages:
+          # echo "trib.one" > _site/CNAME
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
