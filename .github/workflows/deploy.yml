@@ -37,6 +37,14 @@ jobs:
           cp    tribone/static/favicon.ico _site/favicon.ico
           cp    tribone/static/resume.pdf  _site/resume.pdf
 
+          # Fix paths in resume page: it lives at /resume/ (one level deep),
+          # so relative CSS hrefs and absolute /static/ image srcs both break.
+          sed -i \
+            -e 's|href="static/css/|href="../static/css/|g' \
+            -e 's|src="/static/|src="../static/|g' \
+            -e 's|href="/"|href="../"|g' \
+            _site/resume/index.html
+
           # Uncomment when DNS is pointed at GitHub Pages:
           # echo "trib.one" > _site/CNAME
 
