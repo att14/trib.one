@@ -72,13 +72,13 @@ Experienced technology leader with a proven track record of building and scaling
 * Lead project to create a generic data ingestion system from planning to implementation to maintenance.
 * Facilitated Yelp's purchase of Qype by ingesting all company and review data.
 * Enabled partnerships with menu data providers to offer this data on the business pages of Yelp.
-* SUpported Apple Maps integration with differential based data dumps of businesses and reviews using Elastic MapReduce.
+* Supported Apple Maps integration with differential based data dumps of businesses and reviews using Elastic MapReduce.
 
 ## University of Pittsburgh
 ### BS, Computer Science[^P1]
 
 [^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one) [andrew at trib dot one]<br>[<img src="/static/img/linkedin-brands.svg" width=20px height=20px>/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" width=20px height=20px>/att14](https://github.com/att14)
-[^C1]: {-} Feburary 2022 — Present<br>Volcano, HI
+[^C1]: {-} February 2022 — Present<br>Volcano, HI
 [^X1]: {-} September 2020 — December 2021<br>Volcano, HI
 [^E4]: {-} February 2020 — August 2020<br>San Francisco, CA
 [^E3]: {-} December 2018 — February 2020<br>San Francisco, CA
