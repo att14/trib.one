@@ -45,8 +45,7 @@ jobs:
             -e 's|href="/"|href="../"|g' \
             _site/resume/index.html
 
-          # Uncomment when DNS is pointed at GitHub Pages:
-          # echo "trib.one" > _site/CNAME
+          echo "trib.one" > _site/CNAME
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
