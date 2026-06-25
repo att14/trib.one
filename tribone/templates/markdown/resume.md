@@ -9,7 +9,7 @@ Staff engineer with a track record of building AI-powered products, internal pla
 
 ## Gusto
 
-### Staff Software Engineer [^G1]
+### Software Engineer [^G1]
 
 * Led development of Otto (formerly Gia), Gusto's AI support chatbot: migrated the core to a new multi-agent framework across 7 repositories (116 PRs authored, 103 reviewed) and built a Salesforce iframe integration, resolving X-Frame-Options, SameSite, and Secure cookie constraints with the Security team. Otto-resolved tickets achieved a 98.58% closure rate versus 95.44% baseline.
 * Built Model Context Protocol (MCP) plugins for plan lifecycle management, code review automation, and sprint ceremony orchestration — introducing AI-native workflows across the engineering team.
@@ -19,7 +19,7 @@ Staff engineer with a track record of building AI-powered products, internal pla
 
 ## Cortex
 
-### Principal Software Engineer [^C1]
+### Software Engineer [^C1]
 
 * Led cross-functional teams in the planning, implementation, and deployment of multiple product features.
 * Extended the microservice catalog to support all infrastructure resource types, including databases and blob storage.
@@ -28,7 +28,7 @@ Staff engineer with a track record of building AI-powered products, internal pla
 
 ## X Delivery
 
-### Distinguished Software Engineer [^X1]
+### Software Engineer [^X1]
 
 * Technical lead and manager of the entire engineering and product organization, including IT; participated in executive planning.
 * Designed and implemented a Python ETL framework for complex data pipelines spanning Athena, SFTP, MongoDB, S3, Redshift, and others.
@@ -53,14 +53,14 @@ Staff engineer with a track record of building AI-powered products, internal pla
 * Built scalable processes for customer escalation management, feature requests, and vendor reviews.
 * Recruited and developed a team of 10+ product managers and designers, including mentorship programs and training initiatives.
 
-### Principal Software Engineer [^E2]
+### Software Engineer [^E2]
 
 * Day-to-day operator of the Engineering team; head of technical support and lead application developer.
 * Built the first versions of the warehouse management, order management, and transportation management systems; deployed across four warehouses shipping hundreds of thousands of packages per month.
 * Scaled the shipping API to support tens of millions of labels and hundreds of millions of inbound and outbound requests per month.
 * Hired and managed, directly or indirectly, several dozen engineers.
 
-### Senior Software Engineer [^E1]
+### Software Engineer [^E1]
 
 * Application developer focused on infrastructure: service-oriented architecture, message queues, testing, and software design.
 * Introduced and scaled `beanstalkd`, a message queue processing hundreds of millions of jobs per month; contributed to related open-source projects.
