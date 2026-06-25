@@ -5,7 +5,18 @@ date: Monday, December 20, 2021
 
 # Andrew Tribone [^H1]
 
-Experienced technology leader with a proven track record of building and scaling high-performing engineering teams. Known for strategic planning, cross-functional collaboration, and effective project management. Equally strong in technical and business domains, with expertise in software development, architecture, and system design.
+Staff engineer with a track record of building AI-powered products, internal platforms, and high-throughput distributed systems. Brings technical depth across the full stack, strong cross-functional leadership, and hands-on experience with agentic AI systems and Model Context Protocol tooling.
+
+## Gusto
+
+### Staff Software Engineer [^G1]
+
+* Architected migration of Otto, Gusto's AI support chatbot, to a new multi-agent framework across 7 repositories (116 PRs authored, 103 reviewed); Otto-resolved tickets achieved a 98.58% closure rate versus 95.44% baseline.
+* Built Model Context Protocol (MCP) plugins for plan lifecycle management, code review automation, and sprint ceremony orchestration — introducing AI-native workflows across the engineering team.
+* DRI for the Personal Access Token (PAT) internal platform, shipping 31 of 68 project tickets; the product reached 1,771 uses by 276 internal users with 61% second-use retention.
+* Led Gia, a Salesforce iframe integration for Gusto's support platform: resolved X-Frame-Options, SameSite, and Secure cookie constraints with the Security team, and built a containerized local testing environment.
+* Designed Panda Tags, a 500+ tag taxonomy for internal tooling; wrote a custom RuboCop enforcement rule and mentored an engineer through delivery.
+* Drove multiple security remediations including filter encryption key rotation, typeahead PII exposure (GET→POST), GraphQL superuser access controls, and LLM provider migration (OpenAI→AWS Bedrock) via automated Danger tooling.
 
 ## Cortex
 
@@ -78,7 +89,8 @@ Experienced technology leader with a proven track record of building and scaling
 ### BS, Computer Science[^P1]
 
 [^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one)<br>[<img src="/static/img/linkedin-brands.svg" class="contact-icon">/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" class="contact-icon">/att14](https://github.com/att14)
-[^C1]: {-} February 2022 — Present<br>Volcano, HI
+[^G1]: {-} August 2023 — Present<br>Remote
+[^C1]: {-} February 2022 — March 2023<br>Volcano, HI
 [^X1]: {-} September 2020 — December 2021<br>Volcano, HI
 [^E4]: {-} February 2020 — August 2020<br>San Francisco, CA
 [^E3]: {-} December 2018 — February 2020<br>San Francisco, CA
