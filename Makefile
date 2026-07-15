@@ -21,6 +21,7 @@ pandoc:
 	          tribone/templates/markdown/resume.md
 	$(PANDOC) --from markdown \
 	          --to pdf \
+	          --pdf-engine=tectonic \
 	          --output tribone/static/resume.pdf \
 	          --variable geometry:margin=1.5cm \
 	          tribone/templates/markdown/resume-pdf.md
