@@ -40,6 +40,7 @@ $endfor$
 $for(include-before)$
 $include-before$
 $endfor$
+<nav class="resume-nav"><a href="/">← Home</a></nav>
 <article>
 $body$
 </article>
