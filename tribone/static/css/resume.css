@@ -1,3 +1,7 @@
+body {
+    background-color: #fafaf8;
+}
+
 /* Contact icons in the header marginnote — keep them small everywhere */
 img.contact-icon {
     width: 1.1rem !important;
