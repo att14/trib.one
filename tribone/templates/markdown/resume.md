@@ -5,17 +5,25 @@ date: Monday, December 20, 2021
 
 # Andrew Tribone [^H1]
 
-Staff engineer with a track record of building AI-powered products, internal platforms, and high-throughput distributed systems. Brings technical depth across the full stack, strong cross-functional leadership, and hands-on experience with agentic AI systems and Model Context Protocol tooling.
+Engineer specializing in agentic AI systems and the tooling that makes engineering teams AI-native, built on a decade of scaling high-throughput distributed systems. Technical lead of a production LLM agent platform: multi-agent architecture, Model Context Protocol tooling, LLM observability and evals, and AI-powered developer workflows adopted across an organization.
 
 ## Gusto
 
 ### Software Engineer [^G1]
 
-* Led development of Otto (formerly Gia), Gusto's AI support chatbot: migrated the core to a new multi-agent framework across 7 repositories (116 PRs authored, 103 reviewed) and built a Salesforce iframe integration, resolving X-Frame-Options, SameSite, and Secure cookie constraints with the Security team. Otto-resolved tickets achieved a 98.58% closure rate versus 95.44% baseline.
-* Built Model Context Protocol (MCP) plugins for plan lifecycle management, code review automation, and sprint ceremony orchestration — introducing AI-native workflows across the engineering team.
-* DRI for the Payroll Activity Tool (PAT), shipping 31 of 68 project tickets; the product reached 1,771 uses by 276 internal users with 61% second-use retention.
-* Designed Panda Tags, a 500+ tag taxonomy for internal tooling; wrote a custom RuboCop enforcement rule and mentored an engineer through delivery.
-* Drove multiple security remediations including filter encryption key rotation, typeahead PII exposure (GET→POST), GraphQL superuser access controls, and LLM provider migration (OpenAI→AWS Bedrock) via automated Danger tooling.
+* Technical lead for Otto, Gusto's production AI support agent. Led its end-to-end migration to a LangGraph-based multi-agent framework — building the agent runtime, tool registry, and streaming chat service — shipping across 7 repositories from Terraform to Rails backend to React frontend (116 PRs authored, 103 reviewed in a single quarter).
+* Otto-assisted support cases close at 98.58% versus a 95.44% baseline, with 88.3% of weekly active support advocates reaching the proficiency threshold.
+* Built role-aware Model Context Protocol (MCP) tools and Otto's MCP authorization server; authored the "Otto Tools" guide that established the group-wide standard for building MCP tools.
+* Built an AI-powered engineering workflow suite: a plan-lifecycle plugin taking work from idea to implemented PR with AI orchestration at every step, an AI code review plugin with an adversarial review mode, and sprint ceremony automation the team now runs every sprint — 48 PRs to the internal plugin marketplace in one quarter, with teammates independently adopting the workflows.
+* Shipped org-wide LLM-powered code review enforcement for protected files, migrating it from OpenAI to AWS Bedrock and adding per-rule shadow mode and structured logging.
+* Built a containerized simulation environment for Otto that reproduces any company/user/session combination outside Salesforce — unblocking development and enabling isolated UI testing of the agent.
+* Delivered production reliability for an LLM product: SLOs defined in Terraform, Real User Monitoring, chat stream lifecycle metrics, and session continuity preserving conversation context across long-lived email and phone threads.
+* Authored the cross-channel agent coordination technical vision (Journey Protocol) and championed it from concept to prioritization as the foundation for multi-agent coordination across support channels.
+* Resolved Salesforce iframe embedding blockers (X-Frame-Options, SameSite/Secure cookies, Chrome Local Network Access) in partnership with Security; drove remediations including encryption key rotation, typeahead PII protection, and GraphQL superuser access controls.
+* Independently assessed at the top tier of AI engineering fluency (21/21, Advanced across all seven dimensions): 1,746 Claude Code sessions and 165,000+ messages in a single quarter across 31 repositories.
+* DRI for the Payroll Activity Tool, an internal product used by non-engineering support teams: closed 31 of 68 project tickets; reached 1,771 uses by 276 internal users with 61% returning for a second use.
+* DRI for Panda Tags, bringing prioritization and consistency to 500+ tags in Gusto's internal admin tool; wrote a RuboCop rule to enforce the new system and mentored an engineer through the implementation.
+* Mentored engineers through pairing and design reviews, revamped the team's sprint process, and took over a teammate's customer-authentication project during their medical leave to keep it on track.
 
 ## Cortex
 
