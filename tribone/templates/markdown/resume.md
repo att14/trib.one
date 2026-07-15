@@ -89,7 +89,7 @@ Engineer specializing in agentic AI systems and the tooling that makes engineeri
 ### BS, Computer Science[^P1]
 
 [^H1]: {-} [andrew@trib.one](mailto:andrew@trib.one)<br>[<img src="/static/img/linkedin-brands.svg" class="contact-icon">/in/andrew-tribone](https://www.linkedin.com/in/andrew-tribone/)<br>[<img src="/static/img/github-square-brands.svg" class="contact-icon">/att14](https://github.com/att14)
-[^G1]: {-} August 2023 — Present<br>Remote
+[^G1]: {-} August 2023 — Present<br>Volcano, HI
 [^C1]: {-} February 2022 — March 2023<br>Volcano, HI
 [^X1]: {-} September 2020 — December 2021<br>Volcano, HI
 [^E4]: {-} February 2020 — August 2020<br>San Francisco, CA
